@@ -1,0 +1,11 @@
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\bin\Debug\ConsoleExample4.exe.config
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\bin\Debug\ConsoleExample4.exe
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\bin\Debug\ConsoleExample4.pdb
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\obj\Debug\ConsoleExample4.csprojAssemblyReference.cache
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\obj\Debug\ConsoleExample4.csproj.CoreCompileInputs.cache
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\obj\Debug\ConsoleExample4.exe
+D:\Users\niuniu~\source\课后案例\ConsoleExample4\obj\Debug\ConsoleExample4.pdb
+C:\Users\孙磊\Desktop\ConsoleExample4\bin\Debug\ConsoleExample4.exe.config
+C:\Users\孙磊\Desktop\ConsoleExample4\obj\Debug\ConsoleExample4.exe
+C:\Users\孙磊\Desktop\ConsoleExample4\obj\Debug\ConsoleExample4.pdb
+C:\Users\孙磊\Desktop\ConsoleExample4\obj\Debug\ConsoleExample4.csprojResolveAssemblyReference.cache
